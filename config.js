@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Haizz trả lời điêu làm chó",
+    introTitle: 'Người bạn thân yêu nhất của bạn',
+    introDesc: `Haizz từng ngày trôi qua là Trịnh Minh Anh hãm lên 1 ít`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    title: 'Vinh quá nam tính tốt bụng ',
+    desc: 'Tại sao Trịnh Anh lại chơi với tớ lâu như vậy ',
+    btnYes: 'Tại tớ đẹp trai tốt bụng vui tính',
+    btnNo: 'Ai bạn mày, hãm vải ',
+    question: 'Tớ biết tớ đẹp trai mà thế 24/3 0h chúc tớ thi tốt nha',
+    btnReply: 'Haizz chắc chắn nuôn ',
+    reply: 'Chắc chắn tớ sẽ chúc Vinh thi siêu tốt luôn mà -(( ',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messDesc: 'Cậu rất hãm nhưng tớ vẫn chơi với cậu lâu lâu , cậu nên cảm ơn tớ đi trời.',
+    btnAccept: 'Okiiiii lun <3 cảm ơn Vinh đẹp trai nam tính',
+    messLink: 'https://github.com/zukahai/Confess' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
